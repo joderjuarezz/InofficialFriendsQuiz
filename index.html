@@ -1,16 +1,27 @@
 <!DOCTYPE html>
 <html lang="sv">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Inofficiellt Friends Quiz</title>
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <h1>Friends Quiz</h1>
-  <div id="quiz"></div>
-  <button id="next">Nästa fråga</button>
-  <p id="resultat"></p>
+  <div class="overlay"></div>
+
+  <main class="card" role="main">
+    <h1>Friends Quiz</h1>
+    <div id="quiz"></div>
+    <div class="controls">
+      <button id="next" aria-label="Nästa fråga">Nästa</button>
+      <p id="resultat" aria-live="polite"></p>
+    </div>
+  </main>
+
+  <footer class="notice">
+    Inofficiellt fan-quiz. Inte associerat med eller godkänt av ägarna till Friends.
+  </footer>
+
   <script src="script.js"></script>
 </body>
 </html>
