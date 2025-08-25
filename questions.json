@@ -1,0 +1,22 @@
+[
+  { "q": "Vad är Chandlers mellannamn?", "options": ["Matthew", "Muriel", "Francis"], "correct": "Muriel" },
+  { "q": "Vad heter Joeys agent?", "options": ["Janice Hosenstein", "Estelle Leonard", "Erin"], "correct": "Estelle Leonard" },
+  { "q": "Vilket blev Monicas lägenhetsnummer efter att serien justerade dem?", "options": ["5", "20", "19"], "correct": "20" },
+  { "q": "Vad heter Joeys tv-såpa där han spelar Dr. Drake Ramoray?", "options": ["General Hospital", "Days of Our Lives", "All My Children"], "correct": "Days of Our Lives" },
+  { "q": "Vilket alias använder Phoebe ofta?", "options": ["Princess Consuela", "Helena Handbasket", "Regina Phalange"], "correct": "Regina Phalange" },
+  { "q": "Vad heter grannen på våningen under som ofta klagar på oväsen?", "options": ["Mr. Zelner", "Mr. Heckles", "Mr. Treeger"], "correct": "Mr. Heckles" },
+  { "q": "Hur många handdukskategorier har Monica?", "options": ["7", "11", "13"], "correct": "11" },
+  { "q": "Vilken bok lägger Joey i frysen när det blir läskigt?", "options": ["The Shining", "It", "Cujo"], "correct": "The Shining" },
+  { "q": "Vad heter Rachels hårlösa katt?", "options": ["Mrs. Whiskerson", "Fluffy", "Baldy"], "correct": "Mrs. Whiskerson" },
+  { "q": "Vilket instrument försöker Ross spela på Monicas och Chandlers bröllop?", "options": ["Oboe", "Säckpipa", "Klarinett"], "correct": "Säckpipa" },
+  { "q": "Vad heter Las Vegas-showen som Chandlers pappa uppträder i?", "options": ["Viva Las Gaygas", "The Glitter Gulch Revue", "Viva Las Vegas"], "correct": "Viva Las Gaygas" },
+  { "q": "Vad heter Monica och Ross barndomsvän/ögonläkare som Monica dejtar?", "options": ["Pete Becker", "Richard Burke", "Paul Stevens"], "correct": "Richard Burke" },
+  { "q": "Vilket är Joeys gosedjurs pingvins namn?", "options": ["Hugsy", "Waddles", "Pengu"], "correct": "Hugsy" },
+  { "q": "Vilken ingrediens råkar Rachel lägga i sin Thanksgiving-trifle?", "options": ["Kyckling", "Tonfisk", "Köttfärs"], "correct": "Köttfärs" },
+  { "q": "Vad heter Rachels chef på Ralph Lauren?", "options": ["Mr. Zelner", "Mr. Treeger", "Mr. Heckles"], "correct": "Mr. Zelner" },
+  { "q": "Vilket av följande är ett av namnen på trillingarna som Phoebe föder?", "options": ["Ben Jr.", "Frank Jr. Jr.", "Mike Jr."], "correct": "Frank Jr. Jr." },
+  { "q": "Vad beskriver bäst Chandlers jobb i början av serien?", "options": ["Transponster", "IT-support specialist", "Statistical analysis and data reconfiguration"], "correct": "Statistical analysis and data reconfiguration" },
+  { "q": "Vad heter den brittiska kvinna Ross gifter sig med i London?", "options": ["Julie", "Emily Waltham", "Elizabeth Stevens"], "correct": "Emily Waltham" },
+  { "q": "Vad döljer Monica bakom den låsta dörren i sin lägenhet?", "options": ["Ett gästrum", "Ett stökigt städskåp", "En vinsamling"], "correct": "Ett stökigt städskåp" },
+  { "q": "Var äger Ross och Rachel sin första riktiga kyss i serien?", "options": ["Central Perk", "På tvättomaten", "I Monicas lägenhet"], "correct": "Central Perk" }
+]
